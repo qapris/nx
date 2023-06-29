@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "dependencies": {
-    "@nrwl/devkit": "15.0.13",
+    "@nrwl/devkit": "16.4.0",
     "eslint-plugin-disable-autofix": "npm:@mattlewis92/eslint-plugin-disable-autofix@3.0.0",
     "postgres": "charsleysa/postgres#fix-errors-compiled",
     "yargs": "17.6.2"
